@@ -1,0 +1,10 @@
+C:\Users\bradl\source\repos\Unix Coding Discord Multi-Tool\bin\Debug\Unix Coding Discord Multi-Tool.exe.config
+C:\Users\bradl\source\repos\Unix Coding Discord Multi-Tool\bin\Debug\Unix Coding Discord Multi-Tool.exe
+C:\Users\bradl\source\repos\Unix Coding Discord Multi-Tool\bin\Debug\Unix Coding Discord Multi-Tool.pdb
+C:\Users\bradl\source\repos\Unix Coding Discord Multi-Tool\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bradl\source\repos\Unix Coding Discord Multi-Tool\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bradl\source\repos\Unix Coding Discord Multi-Tool\obj\Debug\Unix Coding Discord Multi-Tool.csprojAssemblyReference.cache
+C:\Users\bradl\source\repos\Unix Coding Discord Multi-Tool\obj\Debug\Unix Coding Discord Multi-Tool.csproj.CoreCompileInputs.cache
+C:\Users\bradl\source\repos\Unix Coding Discord Multi-Tool\obj\Debug\Unix Coding Discord Multi-Tool.csproj.CopyComplete
+C:\Users\bradl\source\repos\Unix Coding Discord Multi-Tool\obj\Debug\Unix Coding Discord Multi-Tool.exe
+C:\Users\bradl\source\repos\Unix Coding Discord Multi-Tool\obj\Debug\Unix Coding Discord Multi-Tool.pdb
